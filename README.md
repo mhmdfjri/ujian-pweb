@@ -3,7 +3,7 @@ How to install:
 2. Open your cmd, gitbash, or anything
 3. Follow this command:
   - composer install
-  - copy.env.example.env
+  - copy .env.example.env
   - php artisan key:generate
 
 
